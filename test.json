@@ -1,0 +1,1 @@
+{"value":{"p":"(","lpc":1,"rpc":0},"left":{"value":{"p":"((","rpc":0,"lpc":2},"left":null,"right":{"value":{"p":"(()","rpc":3,"lpc":2},"left":null,"right":null}},"right":{"value":{"p":"()","rpc":2,"lpc":1},"left":{"value":{"p":"()(","rpc":2,"lpc":2},"left":null,"right":null},"right":null}}
